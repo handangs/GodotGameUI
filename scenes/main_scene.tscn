@@ -204,7 +204,7 @@ theme_override_constants/separation = 20
 layout_mode = 2
 size_flags_horizontal = 4
 offset_transform_enabled = true
-text = "首页测试"
+text = "首页测试!amos!"
 label_settings = SubResource("LabelSettings_pyg4m")
 
 [node name="PanelContainer" type="PanelContainer" parent="TabContainer/PanelContainerHome/VBoxContainer" unique_id=733562331]

@@ -24,7 +24,7 @@ window/stretch/aspect="expand"
 
 [editor]
 
-movie_writer/movie_file="D:/Workspace/Godot/游戏ui界面-(1.0)/movies/video.avi"
+movie_writer/movie_file="C:/E/godot_project/demo/GodotGameUI/movies/video.avi"
 
 [file_customization]
 
