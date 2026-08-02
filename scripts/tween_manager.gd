@@ -1,4 +1,3 @@
-@tool
 @icon("res://assets/icons/动画管理.svg")
 extends Node
 class_name TweenManager

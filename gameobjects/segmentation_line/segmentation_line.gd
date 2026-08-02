@@ -1,4 +1,3 @@
-@tool
 extends HBoxContainer
 class_name SegmentationLine
 @export var title_show:bool :
