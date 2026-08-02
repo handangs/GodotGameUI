@@ -16,8 +16,10 @@ func _ready() -> void:
 
 
 func _on_mouse_down(button:Button,index:int):
-	print(index)
+	print(str(index )+ "===>" +str(min(index,3)))
 	if button.button_pressed==false:
-		tab_container.current_tab=index
+		#设置index最大为1
+		tab_container.current_tab = min(index,3)
+		
 		button_audio_stream_player.play(0.04)
 	pass
